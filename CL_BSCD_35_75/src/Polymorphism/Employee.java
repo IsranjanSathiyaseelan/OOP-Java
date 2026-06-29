@@ -8,7 +8,7 @@ package Polymorphism;
 
 /**
  *
- * @author hnd
+ * @author Isranjan
  */
 public class Employee {
     int employeeID;

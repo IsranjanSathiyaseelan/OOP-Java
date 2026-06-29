@@ -8,7 +8,7 @@ package Polymorphism;
 
 /**
  *
- * @author hnd
+ * @author Isranjan
  */
 import Polymorphism.Employee;
 import java.util.Scanner;

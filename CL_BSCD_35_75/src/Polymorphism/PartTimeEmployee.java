@@ -10,7 +10,7 @@ import Polymorphism.Employee;
 
 /**
  *
- * @author hnd
+ * @author Isranjan
  */
 public class PartTimeEmployee extends Employee {
 

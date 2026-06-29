@@ -8,7 +8,7 @@ package Inheritance;
 
 /**
  *
- * @author hnd
+ * @author Isranjan
  */
 public class AdministrativeOfficer extends Staff {
 

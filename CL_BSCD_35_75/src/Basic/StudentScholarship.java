@@ -8,7 +8,7 @@ package Basic;
 
 /**
  *
- * @author hnd
+ * @author Isranjan
  */
 import java.util.Scanner;
 public class StudentScholarship {

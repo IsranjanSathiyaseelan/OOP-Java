@@ -8,7 +8,7 @@ package Inheritance;
 
 /**
  *
- * @author hnd
+ * @author Isranjan
  */
 public abstract class Staff {
 
